@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.dmazine</groupId>
 	<artifactId>parent-pom</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<packaging>pom</packaging>
 	<name>Parent POM</name>
 	<properties>
@@ -507,7 +506,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:dmazine/parent-pom.git</connection>
 		<developerConnection>scm:git:git@github.com:dmazine/parent-pom.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>parent-pom-0.0.1</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
