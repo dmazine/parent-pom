@@ -336,10 +336,7 @@
 			<dependency>
 				<groupId>org.apache.camel</groupId>
 				<artifactId>camel-spring</artifactId>
-				<version>${camel.ve	
-	git@github.com:dmazine/parent-pom.git
-	scm:git:git@github.com:rtyley/madgag-ssh.git
-				rsion}</version>
+				<version>${camel.version}</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.camel</groupId>
