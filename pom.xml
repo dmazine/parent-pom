@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.com.dmazine</groupId>
 	<artifactId>parent-pom</artifactId>
-	<version>0.0.4</version>
+	<version>0.0.5-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<name>Parent POM</name>
 	<properties>
@@ -521,7 +521,7 @@
 	<scm>
 		<connection>scm:git:git@github.com:dmazine/parent-pom.git</connection>
 		<developerConnection>scm:git:git@github.com:dmazine/parent-pom.git</developerConnection>
-		<tag>parent-pom-0.0.4</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<distributionManagement>
 		<repository>
